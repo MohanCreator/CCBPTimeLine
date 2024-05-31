@@ -1,0 +1,36 @@
+.clander-duration-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #2b237c;
+  width: 80px;
+}
+
+.clander {
+  font-size: 18px;
+}
+
+.image {
+  height: 400px;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.visit-button {
+  background-color: #0967d2;
+  color: white;
+  padding: 5px;
+  width: 55px;
+  height: 29px;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
